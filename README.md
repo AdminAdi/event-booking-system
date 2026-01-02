@@ -365,10 +365,5 @@ For issues and questions, please open an issue on GitHub.
 ---
 
 **Happy Coding! 🎉**
-<<<<<<< HEAD
-#   e v e n t - b o o k i n g - s y s t e m 
- 
- 
-=======
+
 #
->>>>>>> 71f83551f3cb024112bb558f0783f9b208bfd6e8
