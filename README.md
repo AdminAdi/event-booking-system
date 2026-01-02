@@ -44,7 +44,7 @@ Before you begin, ensure you have the following installed:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/Fabulosu/event-booking-system.git
+git clonehttps://github.com/AdminAdi/event-booking-system.git
 cd event-booking-system
 ```
 
@@ -365,6 +365,10 @@ For issues and questions, please open an issue on GitHub.
 ---
 
 **Happy Coding! 🎉**
+<<<<<<< HEAD
 #   e v e n t - b o o k i n g - s y s t e m 
  
  
+=======
+#
+>>>>>>> 71f83551f3cb024112bb558f0783f9b208bfd6e8
