@@ -158,6 +158,29 @@ Open your browser and navigate to:
 - **Backend API**: http://localhost:5000
 - **Health Check**: http://localhost:5000/api/health
 
+## 📸 Screenshots
+
+### Home Page
+![Home Page](/ScreenShots/HomePage.png)
+
+### Explore Events
+![Explore Events](/ScreenShots/ExploreEventPage.png)
+
+### Login Page
+![Login Page](/ScreenShots/LoginPage.png)
+
+### Create Event
+![Create Event](/ScreenShots/Create-Event-Page.png)
+
+### My Events
+![My Events](/ScreenShots/MyEventPage.png)
+
+### Payment Process
+![Payment Page](/ScreenShots/Payment%20page.png)
+
+### Payment Session
+![Payment Session](/ScreenShots/Payment-session-Page.png)
+
 ## 📁 Project Structure
 
 ```
@@ -342,5 +365,6 @@ For issues and questions, please open an issue on GitHub.
 ---
 
 **Happy Coding! 🎉**
-#   e v e n t - b o o k i n g - s y s t e m  
+#   e v e n t - b o o k i n g - s y s t e m 
+ 
  
